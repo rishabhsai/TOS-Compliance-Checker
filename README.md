@@ -56,36 +56,4 @@ A modern web-based tool for comparing two Terms of Service (TOS) documents (PDFs
 
 ---
 
-## 🌟 Future Improvements
-- [ ] Add bounding box overlays on PDFs for non-compliant clauses
-- [ ] Support for DOCX and TXT files
-- [ ] More advanced clause matching and analytics
-- [ ] User authentication and database integration
-- [ ] API endpoint for programmatic access
-- [ ] Accessibility and multi-language support
-
----
-
-## 📁 Project Structure
-```
-Document Analysis/
-├── src/
-│   ├── app.py
-│   ├── main.py
-│   ├── document_loader.py
-│   ├── llm_analyzer.py
-│   └── samples/
-│       ├── Term Sheet from WhatsApp.pdf
-│       └── docdocument.pdf
-├── tests/
-│   ├── test_llm_analyzer.py
-│   └── test_document_loader.py
-├── README.md
-├── requirements.txt
-├── tasks.md
-└── .gitignore
-```
-
----
-
-**Made with ❤️ for legal, compliance, and business teams.** # TOS-Compliance-Checker
+**Made with ❤️ for legal, compliance, and business teams.** 
