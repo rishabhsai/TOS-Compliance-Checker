@@ -1,0 +1,6 @@
+pdfplumber
+openai
+gradio
+tiktoken
+numpy
+python-dotenv 
