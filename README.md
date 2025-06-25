@@ -20,7 +20,7 @@ A modern web-based tool for comparing two Terms of Service (TOS) documents (PDFs
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/rishabhsai/TOS-Compliance-Checker
    cd <repo-folder>
    ```
 2. **Install dependencies**
